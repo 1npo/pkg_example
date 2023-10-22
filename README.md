@@ -18,10 +18,12 @@ This README shows how to install and run the example, and provides some notes ab
 3. Then install with pip:
 	- `(my_venv) $ pip install .`
 4. Run the example (you don't need to be in the project directory to run this command - you can run it from any folder, provided the virtual environment is active):
-
+	
+	```
 	(my_venv) $ pkg_example
 	Hello world!
 	Did you know that 2 + 2 = 4?
+	```
 
 ## How does it work?
 
